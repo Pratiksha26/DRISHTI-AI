@@ -308,43 +308,43 @@ The application contains **8 major pages**:
 
 ## 🏠 1. Dashboard — Home
 
-![DRISHTI-AI Dashboard](assets/Home_page.png)
+![DRISHTI-AI Dashboard](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Home_page.png)
 
 ---
 
 ## 📋 2. All Projects
 
-![All Projects](assets/All_Projects.png)
+![All Projects](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/All_Projects.png)
 
 ---
 
 ## 🗺️ 3. Map View
 
-![Map View](assets/Map_View.png)
+![Map View](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Map_View.png)
 
 ---
 
 ## 📌 4. Project Details
 
-![Project Details](assets/Project_Details.png)
+![Project Details](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Project_Details.png)
 
 ---
 
 ## 🔎 5. Investigation
 
-![Investigation](assets/Investigation.png)
+![Investigation](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Investigation.png)
 
 ---
 
 ## 📑 6. Reports
 
-![Reports](assets/Reports.png)
+![Reports](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Reports.png)
 
 ---
 
 ## ℹ️ 7. About
 
-![About DRISHTI-AI](assets/About.png)
+![About DRISHTI-AI](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/About.png)
 
 ---
 
@@ -369,7 +369,7 @@ DRISHTI-AI is currently available as a working Streamlit prototype with:
 
 ## 🏠 1. Dashboard — Home
 
-![DRISHTI-AI Dashboard](assets/Home_page.png)
+![DRISHTI-AI Dashboard](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Home_page.png)
 
 ---
 
