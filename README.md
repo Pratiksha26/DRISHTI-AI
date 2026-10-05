@@ -308,7 +308,7 @@ The application contains **8 major pages**:
 
 ## 🏠 1. Dashboard — Home
 
-![DRISHTI-AI Dashboard](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Home_page.png)
+![DRISHTI-AI Dashboard](https://raw.githubusercontent.com/Pratiksha26/DRISHTI-AI/main/assets/Home_page.png)
 
 ---
 
