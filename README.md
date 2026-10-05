@@ -302,3 +302,64 @@ The application contains **8 major pages**:
                     │ • Reports                │
                     │ • About                  │
                     └──────────────────────────┘
+                    ---
+
+# 📸 Dashboard Screenshots
+
+## 🏠 1. Dashboard — Home
+
+![DRISHTI-AI Dashboard](assets/Home_page.png)
+
+---
+
+## 📋 2. All Projects
+
+![All Projects](assets/All_Projects.png)
+
+---
+
+## 🗺️ 3. Map View
+
+![Map View](assets/Map_View.png)
+
+---
+
+## 📌 4. Project Details
+
+![Project Details](assets/Project_Details.png)
+
+---
+
+## 🔎 5. Investigation
+
+![Investigation](assets/Investigation.png)
+
+---
+
+## 📑 6. Reports
+
+![Reports](assets/Reports.png)
+
+---
+
+## ℹ️ 7. About
+
+![About DRISHTI-AI](assets/About.png)
+
+---
+
+# 🚀 Project Status
+
+DRISHTI-AI is currently available as a working Streamlit prototype with:
+
+- ✅ 3,741 simulated project-level records
+- ✅ 542 real MPLADS constituencies
+- ✅ 36 States/UTs
+- ✅ Rule-based risk detection
+- ✅ Isolation Forest anomaly detection
+- ✅ RapidFuzz similarity detection
+- ✅ Explainable risk scores
+- ✅ Interactive Streamlit dashboard
+- ✅ Geographic visualization
+- ✅ Investigation workflow
+- ✅ Monitoring reports
