@@ -1,0 +1,543 @@
+State,MP_Name,Constituency,Reservation,Constituency_Key,Allocated_Amount
+Maharashtra,Aashtikar Patil Nagesh Bapurao,Hingoli,GEN,Maharashtra | Hingoli,190289442.0
+Jammu And Kashmir,Abdul Rashid Sheikh,Baramullah,GEN,Jammu And Kashmir | Baramullah,154773472.0
+Bihar,Abhay Kumar Sinha,Aurangabad_Br,GEN,Bihar | Aurangabad_Br,147000000.0
+West Bengal,Abhijit Gangopadhyay,Tamluk,GEN,West Bengal | Tamluk,147000000.0
+West Bengal,Abu Taher Khan,Murshidabad,GEN,West Bengal | Murshidabad,147000000.0
+West Bengal,Adhikari Soumendu,Kanthi,GEN,West Bengal | Kanthi,147000000.0
+Uttar Pradesh,Aditya Yadav,Badaun,GEN,Uttar Pradesh | Badaun,147000000.0
+Kerala,Adv Adoor Prakash,Attingal,GEN,Kerala | Attingal,147000000.0
+Kerala,Adv Dean Kuriakose,Idukki,GEN,Kerala | Idukki,147000000.0
+Maharashtra,Adv Gowaal Kagada Padavi,Nandurbar,ST,Maharashtra | Nandurbar,147816309.0
+Kerala,Adv K Francis George,Kottayam,GEN,Kerala | Kottayam,188722256.0
+Uttar Pradesh,Afzal Ansari,Ghazipur,GEN,Uttar Pradesh | Ghazipur,220500000.0
+Jammu And Kashmir,Aga Syed Ruhullah Mehdi,Srinagar,GEN,Jammu And Kashmir | Srinagar,147000000.0
+Uttarakhand,Ajay Bhatt,Nainital Udham Singh Nag.,GEN,Uttarakhand | Nainital Udham Singh Nag.,147000000.0
+Bihar,Ajay Kumar Mandal,Bhagalpur,GEN,Bihar | Bhagalpur,147000000.0
+Uttarakhand,Ajay Tamta,Almora,SC,Uttarakhand | Almora,147000000.0
+Uttar Pradesh,Ajendra Singh Lodhi,Hamirpur_Up,GEN,Uttar Pradesh | Hamirpur_Up,147000000.0
+Uttar Pradesh,Akhilesh Yadav,Kannauj,GEN,Uttar Pradesh | Kannauj,147000000.0
+Uttar Pradesh,Akshaya Yadav,Firozabad,GEN,Uttar Pradesh | Firozabad,147000000.0
+Manipur,Alfred Kanngam S Arthur,Outer Manipur,ST,Manipur | Outer Manipur,147000000.0
+Bihar,Alok Kumar Suman,Gopalganj,SC,Bihar | Gopalganj,147000000.0
+Madhya Pradesh,Alok Sharma,Bhopal,GEN,Madhya Pradesh | Bhopal,147000000.0
+Maharashtra,Amar Sharadrao Kale,Wardha,GEN,Maharashtra | Wardha,147000000.0
+Assam,Amarsing Tisso,Diphu,ST,Assam | Diphu,147000000.0
+Andhra Pradesh,Ambica G Lakshminarayana Valmiki,Anantapur,GEN,Andhra Pradesh | Anantapur,201899064.0
+Maharashtra,Amol Ramsing Kolhe,Shirur,GEN,Maharashtra | Shirur,147000000.0
+Rajasthan,Amraram,Sikar,GEN,Rajasthan | Sikar,165691544.0
+Punjab,Amrinder Singh Raja Warring,Ludhiana,GEN,Punjab | Ludhiana,147000000.0
+Uttar Pradesh,Anand Bhadauriya,Dhaurahra,GEN,Uttar Pradesh | Dhaurahra,147000000.0
+Uttar Pradesh,Anand Kumar,Bahraich,SC,Uttar Pradesh | Bahraich,147000000.0
+Odisha,Ananta Nayak,Keonjhar,ST,Odisha | Keonjhar,147000000.0
+Tamil Nadu,Andimuthu Raja,Nilgiris,SC,Tamil Nadu | Nilgiris,147000000.0
+Meghalaya,Andrew J. Syngkon,Shillong,GEN,Meghalaya | Shillong,98000000.0
+Manipur,Angomcha Bimol Akoijam,Inner Manipur,GEN,Manipur | Inner Manipur,147000000.0
+Uttarakhand,Anil Baluni,Garhwal,GEN,Uttarakhand | Garhwal,147000000.0
+Maharashtra,Anil Yeshwant Desai,Mumbai South Central,GEN,Maharashtra | Mumbai South Central,147000000.0
+Madhya Pradesh,Anita Nagarsingh Chouhan,Ratlam,ST,Madhya Pradesh | Ratlam,147000000.0
+Odisha,Anita Subhadarshini,Aska,GEN,Odisha | Aska,147000000.0
+Jharkhand,Annpurna Devi,Kodarma,GEN,Jharkhand | Kodarma,166665932.0
+Uttar Pradesh,Anoop Pradhan Balmiki,Hathras,SC,Uttar Pradesh | Hathras,147000000.0
+Kerala,Anto Antony,Pathanamthitta,GEN,Kerala | Pathanamthitta,147000000.0
+Maharashtra,Anup Sanjay Dhotre,Akola,GEN,Maharashtra | Akola,147000000.0
+Uttar Pradesh,Anurag Sharma,Jhansi,GEN,Uttar Pradesh | Jhansi,147000000.0
+Himachal Pradesh,Anurag Singh Thakur,Hamirpur_Hp,GEN,Himachal Pradesh | Hamirpur_Hp,149570117.0
+Andhra Pradesh,Appalanaidu Kalisetti,Vizianagaram,GEN,Andhra Pradesh | Vizianagaram,147000000.0
+Bihar,Arun Bharti,Jamui,SC,Bihar | Jamui,194924621.0
+Uttar Pradesh,Arun Govil,Meerut,GEN,Uttar Pradesh | Meerut,147000000.0
+Tamil Nadu,Arun Nehru,Perambalur,GEN,Tamil Nadu | Perambalur,147000000.0
+Telangana,Aruna. D. K,Mahabubnagar,GEN,Telangana | Mahabubnagar,147000000.0
+West Bengal,Arup Chakraborty,Bankura,GEN,West Bengal | Bankura,147000000.0
+Telangana,Arvind Dharmapuri,Nizamabad,GEN,Telangana | Nizamabad,281396355.0
+Maharashtra,Arvind Ganpat Sawant,Mumbai South,GEN,Maharashtra | Mumbai South,147000000.0
+Telangana,Asaduddin Owaisi,Hyderabad,GEN,Telangana | Hyderabad,147000000.0
+Madhya Pradesh,Ashish Dubey,Jabalpur,GEN,Madhya Pradesh | Jabalpur,147000000.0
+Uttar Pradesh,Ashok Kumar Rawat,Misrikh,SC,Uttar Pradesh | Misrikh,147000000.0
+Bihar,Ashok Kumar Yadav,Madhubani,GEN,Bihar | Madhubani,147000000.0
+West Bengal,Asit Kumar Mal,Bolpur,SC,West Bengal | Bolpur,275694457.0
+Uttar Pradesh,Atul Garg,Ghaziabad,GEN,Uttar Pradesh | Ghaziabad,155336470.0
+Odisha,Avimanyu Sethi,Bhadrak,SC,Odisha | Bhadrak,147000000.0
+Uttar Pradesh,Awadhesh Prasad,Faizabad,GEN,Uttar Pradesh | Faizabad,147000000.0
+West Bengal,Azad Kirti Jha,Bardhaman-Durgapur,GEN,West Bengal | Bardhaman-Durgapur,179658400.0
+Andhra Pradesh,B K Parthasarathi,Hindupur,GEN,Andhra Pradesh | Hindupur,160491894.0
+Uttar Pradesh,Babu Singh Kushwaha,Jaunpur,GEN,Uttar Pradesh | Jaunpur,147000000.0
+Maharashtra,Bachhav Shobha Dinesh,Dhule,GEN,Maharashtra | Dhule,147000000.0
+West Bengal,Bag Mitali,Arambag,SC,West Bengal | Arambag,147000000.0
+Odisha,Baijayant Panda,Kendrapara,GEN,Odisha | Kendrapara,147000000.0
+Maharashtra,Bajrang Manohar Sonwane,Beed,GEN,Maharashtra | Beed,165899107.0
+Odisha,Balabhadra Majhi,Nabarangpur,ST,Odisha | Nabarangpur,147413962.0
+Andhra Pradesh,Balashowry Vallabbhaneni,Machilipatnam,GEN,Andhra Pradesh | Machilipatnam,147000000.0
+Telangana,Balram Naik Porika,Mahabubabad,GEN,Telangana | Mahabubabad,147000000.0
+Maharashtra,Balwant Baswant Wankhade,Amravati,SC,Maharashtra | Amravati,198293678.0
+Maharashtra,Balya Mama Suresh Gopinath Mhatre,Bhiwandi,GEN,Maharashtra | Bhiwandi,147000000.0
+Delhi,Bansuri Swaraj,New Delhi,GEN,Delhi | New Delhi,154306950.0
+West Bengal,Bapi Haldar,Mathurapur,SC,West Bengal | Mathurapur,147000000.0
+Karnataka,Basavaraj Bommai,Haveri,GEN,Karnataka | Haveri,147000000.0
+Andhra Pradesh,Bastipati Nagaraju Panchalingala,Kurnool,GEN,Andhra Pradesh | Kurnool,159998515.0
+Rajasthan,Bhagirath Chaudhary,Ajmer,GEN,Rajasthan | Ajmer,147000000.0
+Rajasthan,Bhajan Lal Jatav,Karauli-Dholpur,SC,Rajasthan | Karauli-Dholpur,147000000.0
+Madhya Pradesh,Bharat Singh Kushwah,Gwalior,GEN,Madhya Pradesh | Gwalior,151455276.0
+Gujarat,Bharatbhai Manubhai Sutariya,Amreli,GEN,Gujarat | Amreli,147000000.0
+Gujarat,Bharatsinhji Shankarji Dabhi,Patan,GEN,Gujarat | Patan,147000000.0
+Madhya Pradesh,Bharti Pardhi,Balaghat,GEN,Madhya Pradesh | Balaghat,154398389.0
+Maharashtra,Bhaskar Murlidhar Bhagare,Dindori,ST,Maharashtra | Dindori,147000000.0
+Maharashtra,Bhausaheb Rajaram Wakchaure,Shirdi,SC,Maharashtra | Shirdi,147000000.0
+Chhattisgarh,Bhojraj Nag,Kanker,ST,Chhattisgarh | Kanker,164672734.0
+Uttar Pradesh,Bhola Singh,Bulandshahr,SC,Uttar Pradesh | Bulandshahr,147000000.0
+Maharashtra,Bhumare Sandipanrao Asaram,Aurangabad_Mh,GEN,Maharashtra | Aurangabad_Mh,147000000.0
+Andhra Pradesh,Bhupathiraju Srinivasa Varma,Narasapuram,GEN,Andhra Pradesh | Narasapuram,147000000.0
+Rajasthan,Bhupender Yadav,Alwar,GEN,Rajasthan | Alwar,147000000.0
+Odisha,Bibhu Prasad Tarai,Jagatsinghpur,SC,Odisha | Jagatsinghpur,147000000.0
+Jharkhand,Bidyut Baran Mahato,Jamshedpur,GEN,Jharkhand | Jamshedpur,147000000.0
+Assam,Bijuli Kalita Medhi,Guwahati,GEN,Assam | Guwahati,147000000.0
+Tripura,Biplab Kumar Deb,Tripura West,GEN,Tripura | Tripura West,147000000.0
+Andaman And Nicobar Islands,Bishnu Pada Ray,Andaman And Nicobar Islands,GEN,Andaman And Nicobar Islands | Andaman And Nicobar Islands,147000000.0
+Rajasthan,Brijendra Singh Ola,Jhunjhunu,GEN,Rajasthan | Jhunjhunu,147000000.0
+Chhattisgarh,Brijmohan Agrawal,Raipur,GEN,Chhattisgarh | Raipur,153766451.0
+Madhya Pradesh,Bunty Vivek Sahu,Chhindwara,GEN,Madhya Pradesh | Chhindwara,147000000.0
+Gujarat,C R Patil,Navsari,GEN,Gujarat | Navsari,158532494.0
+Andhra Pradesh,C.M.Ramesh,Anakapalle,GEN,Andhra Pradesh | Anakapalle,202531656.0
+Karnataka,Captain Brijesh Chowta,Dakshina Kannada,GEN,Karnataka | Dakshina Kannada,147000000.0
+Goa,Captain Viriato Fernandes,South Goa,GEN,Goa | South Goa,147000000.0
+Telangana,Chamala Kiran Kumar Reddy,Bhongir,GEN,Telangana | Bhongir,147000000.0
+Uttar Pradesh,Chandan Chauhan,Bijnor,GEN,Uttar Pradesh | Bijnor,147000000.0
+Rajasthan,Chandra Prakash Joshi,Chittorgarh,GEN,Rajasthan | Chittorgarh,147000000.0
+Uttar Pradesh,Chandra Shekhar,Nagina,SC,Uttar Pradesh | Nagina,147000000.0
+Gujarat,Chandubhai Chhaganbhai Shihora,Surendranagar,GEN,Gujarat | Surendranagar,147000000.0
+Punjab,Charanjit Singh Channi,Jalandhar,SC,Punjab | Jalandhar,147000000.0
+Uttar Pradesh,Chhatra Pal Singh Gangwar,Bareilly,GEN,Uttar Pradesh | Bareilly,147000000.0
+Maharashtra,Chhatrapati Shahu Shahaji,Kolhapur,GEN,Maharashtra | Kolhapur,147000000.0
+Uttar Pradesh,Chhotelal,Robertsganj,SC,Uttar Pradesh | Robertsganj,147000000.0
+Chhattisgarh,Chintamani Maharaj,Sarguja,ST,Chhattisgarh | Sarguja,147000000.0
+Bihar,Chirag Paswan,Hajipur,SC,Bihar | Hajipur,147000000.0
+Tamil Nadu,Cn Annadurai,Tiruvannamalai,GEN,Tamil Nadu | Tiruvannamalai,148579509.0
+Tamil Nadu,D M Kathir Anand,Vellore,GEN,Tamil Nadu | Vellore,160196941.0
+Tamil Nadu,D Ravikumar,Viluppuram,SC,Tamil Nadu | Viluppuram,197598306.0
+Andhra Pradesh,Daggubati Purandeshwari,Rajahmundry,GEN,Andhra Pradesh | Rajahmundry,147000000.0
+Andhra Pradesh,Daggumalla Prasada Rao,Chittoor,GEN,Andhra Pradesh | Chittoor,147000000.0
+Rajasthan,Damodar Agarwal,Bhilwara,GEN,Rajasthan | Bhilwara,147000000.0
+Uttar Pradesh,Daroga Prasad Saroj,Lalganj,SC,Uttar Pradesh | Lalganj,147000000.0
+Madhya Pradesh,Darshan Singh Choudhary,Hoshangabad,GEN,Madhya Pradesh | Hoshangabad,147000000.0
+Haryana,Deepender Singh Hooda,Rohtak,GEN,Haryana | Rohtak,147000000.0
+Uttar Pradesh,Devendra Alias Bhole Singh,Akbarpur,GEN,Uttar Pradesh | Akbarpur,147000000.0
+Bihar,Devesh Chandra Thakur,Sitamarhi,GEN,Bihar | Sitamarhi,163809205.0
+Uttar Pradesh,Devesh Shakya,Etah,GEN,Uttar Pradesh | Etah,147000000.0
+Gujarat,Devusinh Jesingbhai Chauhan,Kheda,GEN,Gujarat | Kheda,147000000.0
+Maharashtra,Dhairyasheel Sambhajirao Mane,Hatkanangle,GEN,Maharashtra | Hatkanangle,147000000.0
+Maharashtra,Dhanorkar Pratibha Suresh Alias Balubhau,Chandrapur,GEN,Maharashtra | Chandrapur,147000000.0
+Odisha,Dharmendra Pradhan,Sambalpur,GEN,Odisha | Sambalpur,147000000.0
+Uttar Pradesh,Dharmendra Yadav,Azamgarh,GEN,Uttar Pradesh | Azamgarh,147000000.0
+Gujarat,Dhaval Laxmanbhai Patel,Valsad,ST,Gujarat | Valsad,147000000.0
+Bihar,Dileshwar Kamait,Supaul,GEN,Bihar | Supaul,150450931.0
+Assam,Dilip Saikia,Darrang-Udalguri,GEN,Assam | Darrang-Udalguri,147000000.0
+Bihar,Dinesh Chandra Yadav,Madhepura,GEN,Bihar | Madhepura,150070866.0
+Gujarat,Dineshbhai Makwana,Ahmedabad West,SC,Gujarat | Ahmedabad West,160434965.0
+Andhra Pradesh,Dr Byreddy Shabari,Nandyal,GEN,Andhra Pradesh | Nandyal,150675889.0
+Karnataka,Dr C N Manjunath,Bangalore Rural,GEN,Karnataka | Bangalore Rural,147000000.0
+Andhra Pradesh,Dr Chandra Sekhar Pemmasani,Guntur,GEN,Andhra Pradesh | Guntur,159774113.0
+Punjab,Dr Dharamvira Gandhi,Patiala,GEN,Punjab | Patiala,147000000.0
+West Bengal,Dr Jayanta Kumar Roy,Jalpaiguri,SC,West Bengal | Jalpaiguri,147000000.0
+Maharashtra,Dr Kalge Shivaji Bandappa,Latur,SC,Maharashtra | Latur,147000000.0
+Bihar,Dr Mohammad Jawed,Kishanganj,GEN,Bihar | Kishanganj,148669229.0
+Uttar Pradesh,Dr Rajkumar Sangwan,Baghpat,GEN,Uttar Pradesh | Baghpat,147000000.0
+Tamil Nadu,Dr Rani Sri Kumar,Tenkasi,SC,Tamil Nadu | Tenkasi,153060923.0
+Kerala,Dr Shashi Tharoor,Thiruvananthapuram,GEN,Kerala | Thiruvananthapuram,147000000.0
+West Bengal,Dr Sukanta Majumdar,Balurghat,GEN,West Bengal | Balurghat,157085365.0
+Gujarat,Dr. Hemang Joshi,Vadodara,GEN,Gujarat | Vadodara,147000000.0
+Maharashtra,Dr. Hemant Vishnu Savara,Palghar,ST,Maharashtra | Palghar,147000000.0
+Maharashtra,Dr. Kirsan Namdeo,Gadchiroli-Chimur,ST,Maharashtra | Gadchiroli-Chimur,147000000.0
+Madhya Pradesh,Dr. Lata Wankhede,Sagar,GEN,Madhya Pradesh | Sagar,147000000.0
+Kerala,Dr. M.P Abdussamad Samadani,Ponnani,GEN,Kerala | Ponnani,170434031.0
+Gujarat,Dr. Mansukh Mandaviya,Porbandar,GEN,Gujarat | Porbandar,147000000.0
+Karnataka,Dr. Prabha Mallikarjun,Davanagere,GEN,Karnataka | Davanagere,147000000.0
+Odisha,Dr. Pradeep Kumar Panigrahy,Berhampur,GEN,Odisha | Berhampur,147000000.0
+Maharashtra,Dr. Prashant Yadaorao Padole,Bhandara-Gondiya,GEN,Maharashtra | Bhandara-Gondiya,159680283.0
+Punjab,Dr. Raj Kumar Chabbewal,Hoshiarpur,SC,Punjab | Hoshiarpur,147000000.0
+Madhya Pradesh,Dr. Rajesh Mishra,Sidhi,GEN,Madhya Pradesh | Sidhi,262724510.0
+Uttar Pradesh,Dr. S P Singh,Pratapgarh,GEN,Uttar Pradesh | Pratapgarh,147000000.0
+West Bengal,Dr. Sharmila Sarkar,Bardhaman Purba,SC,West Bengal | Bardhaman Purba,147000000.0
+Karnataka,Dr.K.Sudhakar,Chikballapur,GEN,Karnataka | Chikballapur,147000000.0
+Telangana,Dr.Mallu Ravi,Nagarkurnool,SC,Telangana | Nagarkurnool,147000000.0
+Jharkhand,Dulu Mahato,Dhanbad,GEN,Jharkhand | Dhanbad,147000000.0
+Tamil Nadu,Durai Vaiko,Tiruchirappalli,GEN,Tamil Nadu | Tiruchirappalli,147000000.0
+Madhya Pradesh,Durga Das Uikey,Betul,ST,Madhya Pradesh | Betul,151569503.0
+Rajasthan,Dushyant Singh,Jhalawar-Baran,GEN,Rajasthan | Jhalawar-Baran,147000000.0
+Karnataka,E. Tukaram,Bellary,ST,Karnataka | Bellary,147000000.0
+Kerala,E.T. Mohammed Basheer,Malappuram,GEN,Kerala | Malappuram,163895872.0
+Telangana,Eatala Rajender,Malkajgiri,GEN,Telangana | Malkajgiri,327477391.0
+Tamil Nadu,Eswarasamy K,Pollachi,GEN,Tamil Nadu | Pollachi,162315106.0
+Madhya Pradesh,Faggan Singh Kulaste,Mandla,ST,Madhya Pradesh | Mandla,151861648.0
+Karnataka,G. Kumar Naik,Raichur,ST,Karnataka | Raichur,147000000.0
+Maharashtra,Gaikwad Varsha Eknath,Mumbai North-Central,GEN,Maharashtra | Mumbai North-Central,147000000.0
+Madhya Pradesh,Gajendra Singh Patel,Khargone,ST,Madhya Pradesh | Khargone,147000000.0
+Rajasthan,Gajendra Singh Shekhawat,Jodhpur,GEN,Rajasthan | Jodhpur,147000000.0
+Tamil Nadu,Ganapathy Rajkumar P,Coimbatore,GEN,Tamil Nadu | Coimbatore,147370490.0
+Tamil Nadu,Ganesan Selvam,Kancheepuram,SC,Tamil Nadu | Kancheepuram,186508749.0
+Madhya Pradesh,Ganesh Singh,Satna,GEN,Madhya Pradesh | Satna,147000000.0
+Assam,Gaurav Gogoi,Jorhat,GEN,Assam | Jorhat,147000000.0
+Gujarat,Geniben Nagaji Thakor,Banaskantha,GEN,Gujarat | Banaskantha,147000000.0
+Bihar,Giridhari Yadav,Banka,GEN,Bihar | Banka,147000000.0
+Bihar,Giriraj Singh,Begusarai,GEN,Bihar | Begusarai,147000000.0
+Andhra Pradesh,Gm Harish Balayogi,Amalapuram,SC,Andhra Pradesh | Amalapuram,147000000.0
+Telangana,Godam Nagesh,Adilabad,ST,Telangana | Adilabad,147000000.0
+Tamil Nadu,Gopinath K,Krishnagiri,GEN,Tamil Nadu | Krishnagiri,147000000.0
+Karnataka,Govind Makthappa Karjol,Chitradurga,SC,Karnataka | Chitradurga,147000000.0
+Andhra Pradesh,Gumma Thanuja Rani,Araku,ST,Andhra Pradesh | Araku,149458905.0
+Punjab,Gurmeet Singh Meet Hayer,Sangrur,GEN,Punjab | Sangrur,147000000.0
+Madhya Pradesh,Gyaneshwar Patil,Khandwa,GEN,Madhya Pradesh | Khandwa,155690685.0
+Karnataka,H.D. Kumaraswamy,Mandya,GEN,Karnataka | Mandya,147000000.0
+Uttar Pradesh,Harendra Singh Malik,Muzaffarnagar,GEN,Uttar Pradesh | Muzaffarnagar,147000000.0
+Gujarat,Haribhai Patel,Mahesana,GEN,Gujarat | Mahesana,147000000.0
+Rajasthan,Harish Chandra Meena,Tonk-Sawai Madhopur,GEN,Rajasthan | Tonk-Sawai Madhopur,147000000.0
+Delhi,Harsh Malhotra,East Delhi,GEN,Delhi | East Delhi,147134131.0
+Gujarat,Hasmukh Bhai Soma Bhai Patel,Ahmedabad East,GEN,Gujarat | Ahmedabad East,147000000.0
+Uttar Pradesh,Imran Masood,Saharanpur,GEN,Uttar Pradesh | Saharanpur,147000000.0
+Sikkim,Indra Hang Subba,Sikkim,GEN,Sikkim | Sikkim,152003923.0
+Uttar Pradesh,Iqra Choudhary,Kairana,GEN,Uttar Pradesh | Kairana,147000000.0
+West Bengal,Isha Khan Choudhury,Maldaha Dakshin,GEN,West Bengal | Maldaha Dakshin,147000000.0
+West Bengal,Jagadish Chandra Barma Basunia,Coochbehar,SC,West Bengal | Coochbehar,168604641.0
+Karnataka,Jagadish Shettar,Belgaum,GEN,Karnataka | Belgaum,147000000.0
+West Bengal,Jagannath Sarkar,Ranaghat,SC,West Bengal | Ranaghat,147000000.0
+Uttar Pradesh,Jagdambika Pal,Domariyaganj,GEN,Uttar Pradesh | Domariyaganj,160643957.0
+Haryana,Jai Parkash,Hisar,GEN,Haryana | Hisar,147000000.0
+Uttar Pradesh,Jai Prakash,Hardoi,SC,Uttar Pradesh | Hardoi,147000000.0
+Madhya Pradesh,Janardan Mishra,Rewa,GEN,Madhya Pradesh | Rewa,147000000.0
+Gujarat,Jashubhai Bhilubhai Rathva,Chhota Udaipur,ST,Gujarat | Chhota Udaipur,147000000.0
+Gujarat,Jaswantsinh Sumanbhai Bhabhor,Dahod,ST,Gujarat | Dahod,147000000.0
+Bihar,Jitan Ram Manjhi,Gaya,SC,Bihar | Gaya,147000000.0
+Uttar Pradesh,Jitendra Kumar Dohare,Etawah,SC,Uttar Pradesh | Etawah,188747306.0
+Jammu And Kashmir,Jitendra Singh,Udhampur,GEN,Jammu And Kashmir | Udhampur,147000000.0
+Uttar Pradesh,Jitin Prasada,Pilibhit,GEN,Uttar Pradesh | Pilibhit,147000000.0
+Jharkhand,Joba Majhi,Singhbhum,ST,Jharkhand | Singhbhum,147000000.0
+Assam,Joyanta Basumatary,Kokrajhar,ST,Assam | Kokrajhar,147000000.0
+West Bengal,June Maliah,Medinipur,GEN,West Bengal | Medinipur,147000000.0
+Madhya Pradesh,Jyotiraditya M. Scindia,Guna,GEN,Madhya Pradesh | Guna,147000000.0
+Chhattisgarh,Jyotsna Charandas Mahant,Korba,GEN,Chhattisgarh | Korba,155153738.0
+Tamil Nadu,K E Prakash,Erode,GEN,Tamil Nadu | Erode,147000000.0
+Kerala,K Radhakrishnan,Alathur,SC,Kerala | Alathur,147000000.0
+Tamil Nadu,K Subbarayan,Tiruppur,GEN,Tamil Nadu | Tiruppur,147000000.0
+Kerala,K. C Venugopal,Alappuzha,GEN,Kerala | Alappuzha,147000000.0
+Karnataka,K. Rajashekar Basavaraj Hitnal,Koppal,GEN,Karnataka | Koppal,147000000.0
+Telangana,Kadiyam Kavya,Warangel,SC,Telangana | Warangel,147000000.0
+West Bengal,Kakoli Ghosh Dastidar,Barasat,GEN,West Bengal | Barasat,147000000.0
+The Dadra And Nagar Haveli And Daman And Diu,Kalaben Mohanbhai Delkar,Dadra & Nagar Haveli,ST,The Dadra And Nagar Haveli And Daman And Diu | Dadra & Nagar Haveli,269500000.0
+Tamil Nadu,Kalanidhi Veeraswamy,Chennai North,GEN,Tamil Nadu | Chennai North,171500000.0
+Jharkhand,Kali Charan Munda,Khunti,ST,Jharkhand | Khunti,147000000.0
+Jharkhand,Kali Charan Singh,Chatra,GEN,Jharkhand | Chatra,147000000.0
+West Bengal,Kalipada Saren,Jhargram,ST,West Bengal | Jhargram,147000000.0
+West Bengal,Kalyan Banerjee,Sreerampur,GEN,West Bengal | Sreerampur,147000000.0
+Maharashtra,Kalyan Vaijinathrao Kale,Jalna,GEN,Maharashtra | Jalna,147000000.0
+Assam,Kamakhya Prasad Tasa,Kaziranga,GEN,Assam | Kaziranga,147000000.0
+Delhi,Kamaljeet Sehrawat,West Delhi,GEN,Delhi | West Delhi,147000000.0
+Chhattisgarh,Kamlesh Jangde,Janjgir Champa,SC,Chhattisgarh | Janjgir Champa,150384382.0
+Uttar Pradesh,Kamlesh Paswan,Bansgaon,SC,Uttar Pradesh | Bansgaon,147000000.0
+Himachal Pradesh,Kangana Ranaut,Mandi,GEN,Himachal Pradesh | Mandi,147000000.0
+Tamil Nadu,Kani K Navas,Ramanathapuram,GEN,Tamil Nadu | Ramanathapuram,147000000.0
+Tamil Nadu,Kanimozhi Karunanidhi,Thoothukkudi,GEN,Tamil Nadu | Thoothukkudi,147000000.0
+Uttar Pradesh,Kanwar Singh Tanwar,Amroha,GEN,Uttar Pradesh | Amroha,147000000.0
+Uttar Pradesh,Karan Bhushan Singh,Kaiserganj,GEN,Uttar Pradesh | Kaiserganj,147000000.0
+West Bengal,Kartick Chandra Paul,Raiganj,GEN,West Bengal | Raiganj,202677987.0
+Bihar,Kaushalendra Kumar,Nalanda,GEN,Bihar | Nalanda,147000000.0
+West Bengal,Khagen Murmu,Maldaha Uttar,GEN,West Bengal | Maldaha Uttar,147000000.0
+West Bengal,Khalilur Rahaman,Jangipur,GEN,West Bengal | Jangipur,147000000.0
+Andhra Pradesh,Kinjarapu Ram Mohan Naidu,Srikakulam,GEN,Andhra Pradesh | Srikakulam,171200630.0
+Arunachal Pradesh,Kiren Rijiju,Arunachal West,GEN,Arunachal Pradesh | Arunachal West,147000000.0
+Uttar Pradesh,Kirti Vardhan Singh,Gonda,GEN,Uttar Pradesh | Gonda,147000000.0
+Telangana,Kishan Reddy Gangapuram,Secunderabad,GEN,Telangana | Secunderabad,147000000.0
+Uttar Pradesh,Kishori Lal,Amethi,GEN,Uttar Pradesh | Amethi,171500000.0
+Telangana,Konda Vishweshwar Reddy,Chelvella,GEN,Telangana | Chelvella,233721421.0
+Karnataka,Kota Srinivas Poojary,Udupi Chikmagalur,GEN,Karnataka | Udupi Chikmagalur,147000000.0
+Assam,Kripanath Mallah,Karimganj,SC,Assam | Karimganj,147000000.0
+Haryana,Krishan Pal Gurjar,Faridabad,GEN,Haryana | Faridabad,147000000.0
+Uttar Pradesh,Krishna Devi Shivshanker Patel,Banda,GEN,Uttar Pradesh | Banda,147000000.0
+Andhra Pradesh,Krishna Prasad Tenneti,Bapatla,GEN,Andhra Pradesh | Bapatla,167796849.0
+Tripura,Kriti Devi Debbarman,Tripura East,ST,Tripura | Tripura East,147000000.0
+Rajasthan,Kuldeep Indora,Ganganagar,SC,Rajasthan | Ganganagar,147000000.0
+Telangana,Kunduru Raghuveer,Nalgonda,GEN,Telangana | Nalgonda,162952022.0
+Uttar Pradesh,Lalji Verma,Ambedkar Nagar,GEN,Uttar Pradesh | Ambedkar Nagar,147000000.0
+Andhra Pradesh,Lavu Sri Krishna Devarayalu,Narasaraopet,GEN,Andhra Pradesh | Narasaraopet,174009663.0
+Uttar Pradesh,Laxmikant Pappu Nishad,Sant Kabir Nagar,GEN,Uttar Pradesh | Sant Kabir Nagar,147000000.0
+Bihar,Lovely Anand,Sheohar,GEN,Bihar | Sheohar,147000000.0
+Rajasthan,Lumbaram,Jalore,GEN,Rajasthan | Jalore,147000000.0
+Karnataka,M. Mallesh Babu,Kolar,SC,Karnataka | Kolar,147065957.0
+Tamil Nadu,M.K. Vishnuprasad,Cuddalore,GEN,Tamil Nadu | Cuddalore,147000000.0
+Andhra Pradesh,Maddila Gurumoorthy,Tirupati,SC,Andhra Pradesh | Tirupati,180399007.0
+Telangana,Madhavaneni Raghunandan Rao,Medak,GEN,Telangana | Medak,147000000.0
+Andhra Pradesh,Magunta Sreenivasulu Reddy,Ongole,GEN,Andhra Pradesh | Ongole,147000000.0
+Madhya Pradesh,Mahendra Singh Solanky,Dewas,SC,Madhya Pradesh | Dewas,147000000.0
+Chhattisgarh,Mahesh Kashyap,Bastar,ST,Chhattisgarh | Bastar,147000000.0
+Uttar Pradesh,Mahesh Sharma,Gautam Buddha Nagar,GEN,Uttar Pradesh | Gautam Buddha Nagar,148816284.0
+Rajasthan,Mahima Kumari Mewar,Rajsamand,GEN,Rajasthan | Rajsamand,183892143.0
+Uttarakhand,Mala Rajya Laxmi Shah,Tehri Garhwal,GEN,Uttarakhand | Tehri Garhwal,147000000.0
+West Bengal,Mala Roy,Kolkata Dakshin,GEN,West Bengal | Kolkata Dakshin,147000000.0
+Tamil Nadu,Malaiyarasan D,Kallakurichi,GEN,Tamil Nadu | Kallakurichi,201599593.0
+Odisha,Malvika Devi,Kalahandi,GEN,Odisha | Kalahandi,147000000.0
+Punjab,Malvinder Singh Kang,Anandpur Sahib,GEN,Punjab | Anandpur Sahib,147000000.0
+Tamil Nadu,Mani. A.,Dharamapuri,GEN,Tamil Nadu | Dharamapuri,164515071.0
+Tamil Nadu,Manickam Tagore B,Virudhunagar,GEN,Tamil Nadu | Virudhunagar,147000000.0
+Jharkhand,Manish Jaiswal,Hazaribagh,GEN,Jharkhand | Hazaribagh,147000000.0
+Chandigarh,Manish Tewari,Chandigarh,GEN,Chandigarh | Chandigarh,178351444.0
+Rajasthan,Manju Sharma,Jaipur,GEN,Rajasthan | Jaipur,167082901.0
+Rajasthan,Manna Lal Rawat,Udaipur,ST,Rajasthan | Udaipur,147000000.0
+Haryana,Manohar Lal,Karnal,GEN,Haryana | Karnal,147000000.0
+Bihar,Manoj Kumar,Sasaram,SC,Bihar | Sasaram,147000000.0
+West Bengal,Manoj Tigga,Alipurduars,ST,West Bengal | Alipurduars,147000000.0
+Delhi,Manoj Tiwari,North East Delhi,GEN,Delhi | North East Delhi,225843858.0
+Gujarat,Mansukhbhai Dhanjibhai Vasava,Bharuch,GEN,Gujarat | Bharuch,147000000.0
+Jammu And Kashmir,Mian Altaf Ahmad,Anantnag,GEN,Jammu And Kashmir | Anantnag,147000000.0
+Andhra Pradesh,Midhun Reddy,Rajampet,GEN,Andhra Pradesh | Rajampet,178951477.0
+Bihar,Misha Bharti,Pataliputra,GEN,Bihar | Pataliputra,147000000.0
+Gujarat,Mitesh Rameshbhai Bakabhai Patel,Anand,GEN,Gujarat | Anand,147000000.0
+Ladakh,Mohamed Haneefa,Ladakh,GEN,Ladakh | Ladakh,161114542.0
+Uttar Pradesh,Mohibbullah,Rampur,GEN,Uttar Pradesh | Rampur,147000000.0
+Maharashtra,Mohite Patil Dhairyasheel Rajsinh,Madha,GEN,Maharashtra | Madha,195613602.0
+Bihar,Mr Gopal Jee Thakur,Darbhanga,GEN,Bihar | Darbhanga,147000000.0
+West Bengal,Ms Mahua Moitra,Krishnanagar,GEN,West Bengal | Krishnanagar,159865046.0
+Lakshadweep,Muhammed Hamdullah Sayeed,Lakshadweep,ST,Lakshadweep | Lakshadweep,153942460.0
+Uttar Pradesh,Mukesh Rajput,Farrukhabad,GEN,Uttar Pradesh | Farrukhabad,147000000.0
+Gujarat,Mukeshkumar Chandrakaant Dalal,Surat,GEN,Gujarat | Surat,147000000.0
+Rajasthan,Murari Lal Meena,Dausa,ST,Rajasthan | Dausa,147000000.0
+Tamil Nadu,Murasoli S,Thanjavur,GEN,Tamil Nadu | Thanjavur,147000000.0
+Maharashtra,Murlidhar Mohol,Pune,GEN,Maharashtra | Pune,147000000.0
+Odisha,Naba Charan Majhi,Mayurbhanj,ST,Odisha | Mayurbhanj,147563957.0
+Jharkhand,Nalin Soren,Dumka,ST,Jharkhand | Dumka,147364097.0
+Uttar Pradesh,Narayan Das Ahirwar,Jalaun,SC,Uttar Pradesh | Jalaun,147000000.0
+Maharashtra,Narayan Tatu Rane,Ratnagiri-Sindhudurg,GEN,Maharashtra | Ratnagiri-Sindhudurg,147000000.0
+Uttar Pradesh,Naresh Chandra Uttam Patel,Fatehpur,GEN,Uttar Pradesh | Fatehpur,147000000.0
+Maharashtra,Naresh Ganpat Mhaske,Thane,GEN,Maharashtra | Thane,147000000.0
+Haryana,Naveen Jindal,Kurukshetra,GEN,Haryana | Kurukshetra,147000000.0
+Uttar Pradesh,Neeraj Maurya,Aonla,GEN,Uttar Pradesh | Aonla,147000000.0
+Maharashtra,Nilesh Dnyandev Lanke,Ahmednagar,GEN,Maharashtra | Ahmednagar,147000000.0
+Gujarat,Nimuben Jayantibhai Bambhaniya,Bhavnagar,GEN,Gujarat | Bhavnagar,147000000.0
+Jharkhand,Nishikant Dubey,Godda,GEN,Jharkhand | Godda,147000000.0
+Maharashtra,Nitin Jairam Gadkari,Nagpur,GEN,Maharashtra | Nagpur,168195086.0
+Bihar,Nityanand Rai,Ujjarpur,GEN,Bihar | Ujjarpur,147000000.0
+Rajasthan,Om Birla,Kota,GEN,Rajasthan | Kota,163906957.0
+Maharashtra,Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,Osmanabad,GEN,Maharashtra | Osmanabad,184758519.0
+Karnataka,P C Mohan,Bangalore Central,GEN,Karnataka | Bangalore Central,159995711.0
+Uttar Pradesh,Pankaj Chowdhary,Maharajganj_Up,GEN,Uttar Pradesh | Maharajganj_Up,147000000.0
+Assam,Parimal Suklabaidya,Silchar,GEN,Assam | Silchar,148300157.0
+Gujarat,Parshottambhai Rupala,Rajkot,GEN,Gujarat | Rajkot,147000000.0
+West Bengal,Partha Bhowmick,Barrackpur,GEN,West Bengal | Barrackpur,147000000.0
+Karnataka,Parvatagouda Chandanagouda Gaddigoudar,Bagalkot,GEN,Karnataka | Bagalkot,167541747.0
+The Dadra And Nagar Haveli And Daman And Diu,Patel Umeshbhai Babubhai,Daman And Diu,GEN,The Dadra And Nagar Haveli And Daman And Diu | Daman And Diu,245063957.0
+West Bengal,Pathan Yusuf,Baharampur,GEN,West Bengal | Baharampur,147000000.0
+Assam,Phani Bhusan Choudhury,Barpeta,GEN,Assam | Barpeta,147000000.0
+Maharashtra,Piyush Vedprakash Goyal,Mumbai North,GEN,Maharashtra | Mumbai North,147000000.0
+Andhra Pradesh,Prabhakar Reddy Vemireddy,Nellore,SC,Andhra Pradesh | Nellore,147000000.0
+Gujarat,Prabhubhai Nagarbhai Vasava,Bardoli,ST,Gujarat | Bardoli,147000000.0
+Assam,Pradan Baruah,Lakhimpur,GEN,Assam | Lakhimpur,147000000.0
+Bihar,Pradeep Kumar Singh,Araria,GEN,Bihar | Araria,147000000.0
+Odisha,Pradeep Purohit,Bargarh,GEN,Odisha | Bargarh,147000000.0
+Assam,Pradyut Bordoloi,Nowgong,GEN,Assam | Nowgong,98000000.0
+Karnataka,Pralhad Venkatesh Joshi,Dharwad,GEN,Karnataka | Dharwad,147000000.0
+Maharashtra,Praniti Sushilkumar Shinde,Solapur,SC,Maharashtra | Solapur,147000000.0
+West Bengal,Prasun Banerjee,Howrah,GEN,West Bengal | Howrah,147000000.0
+Odisha,Pratap Chandra Sarangi,Balasore,GEN,Odisha | Balasore,147064254.0
+Maharashtra,Prataprao Jadhav,Buldhana,GEN,Maharashtra | Buldhana,147000000.0
+West Bengal,Pratima Mondal,Joynagar,SC,West Bengal | Joynagar,147000000.0
+Delhi,Praveen Khandelwal,Chandini Chowk,GEN,Delhi | Chandini Chowk,147470276.0
+Uttar Pradesh,Praveen Patel,Phulpur,GEN,Uttar Pradesh | Phulpur,151559884.0
+Uttar Pradesh,Priya Saroj,Machhlishahr,SC,Uttar Pradesh | Machhlishahr,147000000.0
+Kerala,Priyanka Gandhi Vadra,Wayanad,GEN,Kerala | Wayanad,122500000.0
+Karnataka,Priyanka Satish Jarkiholi,Chikkodi,GEN,Karnataka | Chikkodi,147000000.0
+West Bengal,Prof Sougata Ray,Dum Dum,GEN,West Bengal | Dum Dum,147000000.0
+Uttar Pradesh,Prof Sp Singh Baghel,Agra,SC,Uttar Pradesh | Agra,147000000.0
+Uttar Pradesh,Pushpendra Saroj,Kaushambi,SC,Uttar Pradesh | Kaushambi,147000000.0
+Andhra Pradesh,Putta Mahesh Kumar,Eluru,GEN,Andhra Pradesh | Eluru,147000000.0
+Uttar Pradesh,R.K. Chaudhary,Mohanlalganj,SC,Uttar Pradesh | Mohanlalganj,147000000.0
+Odisha,Rabindra Narayan Behera,Jajpur,SC,Odisha | Jajpur,147064617.0
+West Bengal,Rachna Banerjee,Hooghly,GEN,West Bengal | Hooghly,147000000.0
+Bihar,Radha Mohan Singh,Purvi Champaran,GEN,Bihar | Purvi Champaran,147000000.0
+Karnataka,Radhakrishna,Gulbarga,SC,Karnataka | Gulbarga,147000000.0
+Chhattisgarh,Radhe Shyam Rathiya,Raigarh,ST,Chhattisgarh | Raigarh,159706972.0
+Uttar Pradesh,Rahul Gandhi,Rae Bareli,GEN,Uttar Pradesh | Rae Bareli,147000000.0
+Rajasthan,Rahul Kaswan,Churu,GEN,Rajasthan | Churu,147000000.0
+Madhya Pradesh,Rahul Singh Lodhi,Damoh,GEN,Madhya Pradesh | Damoh,163058785.0
+Bihar,Raj Bhushan Choudhary,Muzaffarpur,GEN,Bihar | Muzaffarpur,147000000.0
+Rajasthan,Raj Kumar Roat,Banswara,ST,Rajasthan | Banswara,147000000.0
+Bihar,Raja Ram Singh,Karakat,GEN,Bihar | Karakat,147000000.0
+Maharashtra,Rajabhau,Nashik,GEN,Maharashtra | Nashik,152878682.0
+Himachal Pradesh,Rajeev Bhardwaj,Kangra,GEN,Himachal Pradesh | Kangra,179388967.0
+Uttar Pradesh,Rajeev Rai,Ghosi,GEN,Uttar Pradesh | Ghosi,147000000.0
+Bihar,Rajesh Ranjan Alias Pappu Yadav,Purnea,GEN,Bihar | Purnea,147000000.0
+Bihar,Rajesh Verma,Khagaria,GEN,Bihar | Khagaria,147000000.0
+Gujarat,Rajeshbhai Naranbhai Chudasama,Junagadh,GEN,Gujarat | Junagadh,147000000.0
+Bihar,Rajiv Pratap Rudy,Saran,GEN,Bihar | Saran,147000000.0
+Bihar,Rajiv Ranjan (Lalan) Singh,Munger,GEN,Bihar | Munger,147000000.0
+Uttar Pradesh,Rajkumar Chahar,Fatehpur Sikri,GEN,Uttar Pradesh | Fatehpur Sikri,147000000.0
+Uttar Pradesh,Rajnath Singh,Lucknow,GEN,Uttar Pradesh | Lucknow,154808797.0
+Gujarat,Rajpalsinh Mahendrasinh Jadav,Panchmahal,GEN,Gujarat | Panchmahal,147000000.0
+West Bengal,Raju Bista,Darjeeling,GEN,West Bengal | Darjeeling,147000000.0
+Uttar Pradesh,Rakesh Rathor,Sitapur,GEN,Uttar Pradesh | Sitapur,147000000.0
+Assam,Rakibul Hussain,Dhubri,GEN,Assam | Dhubri,147000000.0
+Uttar Pradesh,Ram Prasad Chaudhary,Basti,GEN,Uttar Pradesh | Basti,204176957.0
+Uttar Pradesh,Ram Shiromani,Shrawasti,GEN,Uttar Pradesh | Shrawasti,151746878.0
+Telangana,Ramasahayam Raghuram Reddy,Khammam,GEN,Telangana | Khammam,147000000.0
+Uttar Pradesh,Ramashankar Rajbhar,Salempur,GEN,Uttar Pradesh | Salempur,160056927.0
+Uttar Pradesh,Rambhual Nishad,Sultanpur,GEN,Uttar Pradesh | Sultanpur,151231957.0
+Uttar Pradesh,Ramesh Awasthi,Kanpur,GEN,Uttar Pradesh | Kanpur,147000000.0
+Karnataka,Ramesh Chandappa Jigajinagi,Bijapur,SC,Karnataka | Bijapur,269500000.0
+Bihar,Ramprit Mandal,Jhanjharpur,GEN,Bihar | Jhanjharpur,147000000.0
+Delhi,Ramvir Singh Bidhuri,South Delhi,GEN,Delhi | South Delhi,147559100.0
+Assam,Ranjit Dutta,Sonitpur,GEN,Assam | Sonitpur,147000000.0
+Haryana,Rao Inderjit Singh,Gurgaon,GEN,Haryana | Gurgaon,147000000.0
+Rajasthan,Rao Rajendra Singh,Jaipur Rural,GEN,Rajasthan | Jaipur Rural,147000000.0
+Bihar,Ravi Shankar Prasad,Patna Sahib,GEN,Bihar | Patna Sahib,147000000.0
+Maharashtra,Ravindra Dattaram Waikar,Mumbai North West,GEN,Maharashtra | Mumbai North West,147000000.0
+Uttar Pradesh,Ravindra Shyamnarayan Alias Ravi Kishan Shukla,Gorakhpur,GEN,Uttar Pradesh | Gorakhpur,147000000.0
+Maharashtra,Ravindra Vasantrao Chavan,Nanded,GEN,Maharashtra | Nanded,147000000.0
+Mizoram,Richard Vanlalhmangaiha,Mizoram,ST,Mizoram | Mizoram,147000000.0
+Tamil Nadu,Robert Bruce C,Tirunelveli,GEN,Tamil Nadu | Tirunelveli,147475440.0
+Madhya Pradesh,Rodmal Nagar,Rajgarh,GEN,Madhya Pradesh | Rajgarh,147000000.0
+Chhattisgarh,Roop Kumari Choudhary,Mahasamund,GEN,Chhattisgarh | Mahasamund,153035414.0
+Uttar Pradesh,Ruchi Vira,Moradabad,GEN,Uttar Pradesh | Moradabad,147000000.0
+Odisha,Rudra Narayan Pany,Dhenkanal,GEN,Odisha | Dhenkanal,155013957.0
+Nagaland,S Supongmeren Jamir,Nagaland,GEN,Nagaland | Nagaland,147000000.0
+Tamil Nadu,S Venkatesan,Madurai,GEN,Tamil Nadu | Madurai,147000000.0
+Tamil Nadu,S. Jagathrakshakan,Arakkonam,GEN,Tamil Nadu | Arakkonam,180589332.0
+Tamil Nadu,Sachithanantham R,Dindigul,GEN,Tamil Nadu | Dindigul,147000000.0
+Karnataka,Sagar Eshwar Khandre,Bidar,GEN,Karnataka | Bidar,147000000.0
+Meghalaya,Saleng A Sangma,Tura,GEN,Meghalaya | Tura,147000000.0
+Odisha,Sambit Patra,Puri,GEN,Odisha | Puri,147000000.0
+Uttar Pradesh,Sanatan Pandey,Ballia,GEN,Uttar Pradesh | Ballia,180420041.0
+Maharashtra,Sanjay Dina Patil,Mumbai North East,GEN,Maharashtra | Mumbai North East,147000000.0
+Maharashtra,Sanjay Haribhau Jadhav,Parbhani,GEN,Maharashtra | Parbhani,147000000.0
+Bihar,Sanjay Jaiswal,Paschim Champaran,GEN,Bihar | Paschim Champaran,147000000.0
+Telangana,Sanjay Kumar Bandi,Karimnagar,GEN,Telangana | Karimnagar,172775317.0
+Jharkhand,Sanjay Seth,Ranchi,GEN,Jharkhand | Ranchi,147064357.0
+Maharashtra,Sanjay Uttamrao Deshmukh,Yavatmal-Washim,GEN,Maharashtra | Yavatmal-Washim,185640423.0
+Rajasthan,Sanjna Jatav,Bharatpur,SC,Rajasthan | Bharatpur,147000000.0
+Chhattisgarh,Santosh Pandey,Rajnandgaon,GEN,Chhattisgarh | Rajnandgaon,147000000.0
+Odisha,Saptagiri Sankar Ulaka,Koraput,ST,Odisha | Koraput,269500000.0
+Punjab,Sarabjeet Singh Khalsa,Faridkot,SC,Punjab | Faridkot,150850348.0
+Tamil Nadu,Sasikanth Senthil,Tiruvallur,SC,Tamil Nadu | Tiruvallur,171500000.0
+Haryana,Satpal Brahamchari,Sonepat,GEN,Haryana | Sonepat,147000000.0
+West Bengal,Saumitra Khan,Bishnupur,SC,West Bengal | Bishnupur,147000000.0
+Madhya Pradesh,Savitri Thakur,Dhar,ST,Madhya Pradesh | Dhar,147000000.0
+West Bengal,Sayani Ghosh,Jadavpur,GEN,West Bengal | Jadavpur,147000000.0
+Haryana,Selja,Sirsa,SC,Haryana | Sirsa,147000000.0
+Tamil Nadu,Selvaganapathi T M,Salem,GEN,Tamil Nadu | Salem,147000000.0
+Tamil Nadu,Selvaraj V,Nagapattinam,SC,Tamil Nadu | Nagapattinam,147000000.0
+Kerala,Shafi Parambil,Vadakara,GEN,Kerala | Vadakara,147000000.0
+Bihar,Shambhavi,Samastipur,SC,Bihar | Samastipur,147000000.0
+Madhya Pradesh,Shankar Lalwani,Indore,GEN,Madhya Pradesh | Indore,147000000.0
+Uttar Pradesh,Shashank Mani,Deoria,GEN,Uttar Pradesh | Deoria,147000000.0
+West Bengal,Shatrughan Sinha,Asansol,GEN,West Bengal | Asansol,147000000.0
+Punjab,Sher Singh Ghubaya,Firozpur,GEN,Punjab | Firozpur,147000000.0
+Madhya Pradesh,Shivmangal Singh Tomar,Morena,GEN,Madhya Pradesh | Morena,147000000.0
+Madhya Pradesh,Shivraj Singh Chouhan,Vidisha,GEN,Madhya Pradesh | Vidisha,147000000.0
+Karnataka,Shobha Karandlaje,Bangalore North,GEN,Karnataka | Bangalore North,147000000.0
+Gujarat,Shobhanaben Mahendrasinh Baraiya,Sabarkantha,GEN,Gujarat | Sabarkantha,147000000.0
+Karnataka,Shreyas. M. Patel,Hassan,GEN,Karnataka | Hassan,147000000.0
+Haryana,Shri Dharambir Singh,Bhiwani Mahendragarh,GEN,Haryana | Bhiwani Mahendragarh,147000000.0
+West Bengal,Shri Abhishek Banerjee,Diamond Harbour,GEN,West Bengal | Diamond Harbour,147000000.0
+Punjab,Shri Amar Singh,Fatehgarh Sahib,SC,Punjab | Fatehgarh Sahib,147000000.0
+Gujarat,Shri Amit Shah,Gandhinagar,GEN,Gujarat | Gandhinagar,147000000.0
+Madhya Pradesh,Shri Anil Firojiya,Ujjain,SC,Madhya Pradesh | Ujjain,147000000.0
+Rajasthan,Shri Arjun Ram Meghwal,Bikaner,SC,Rajasthan | Bikaner,147000000.0
+Uttar Pradesh,Shri Arun Kumar Sagar,Shahjahanpur,SC,Uttar Pradesh | Shahjahanpur,147000000.0
+Karnataka,Shri B Y Raghavendra,Shimoga,GEN,Karnataka | Shimoga,147000000.0
+Kerala,Shri Benny Behanan,Chalakudy,GEN,Kerala | Chalakudy,164674770.0
+Odisha,Shri Bhartruhari Mahtab,Cuttack,GEN,Odisha | Cuttack,147000000.0
+Jharkhand,Shri Chandra Prakash Choudhary,Giridih,GEN,Jharkhand | Giridih,147000000.0
+West Bengal,Shri Deepak (Dev) Adhikari,Ghatal,GEN,West Bengal | Ghatal,200747364.0
+Punjab,Shri Gurjeet Singh Aujla,Amritsar,GEN,Punjab | Amritsar,147000000.0
+Rajasthan,Shri Hanuman Beniwal,Nagaur,GEN,Rajasthan | Nagaur,147000000.0
+Kerala,Shri Hibi Eden,Ernakulam,GEN,Kerala | Ernakulam,162177260.0
+Bihar,Shri Janardan Singh Sigriwal,Maharajganj_Br,GEN,Bihar | Maharajganj_Br,147000000.0
+Odisha,Shri Jual Oram,Sundargarh,ST,Odisha | Sundargarh,173096757.0
+Jammu And Kashmir,Shri Jugal Kishore Sharma,Jammu,GEN,Jammu And Kashmir | Jammu,147000000.0
+West Bengal,Shri Jyotirmay Singh Mahato,Purulia,GEN,West Bengal | Purulia,147000000.0
+Tamil Nadu,Shri Karti P Chidambaram,Sivaganga,GEN,Tamil Nadu | Sivaganga,159049284.0
+Kerala,Shri Kumbakudi Sudhakaran,Kannur,GEN,Kerala | Kannur,147000000.0
+Karnataka,Shri Ls Tejasvi Surya,Bangalore South,GEN,Karnataka | Bangalore South,147000000.0
+Kerala,Shri M K Raghavan,Kozhikode,GEN,Kerala | Kozhikode,147000000.0
+Uttar Pradesh,Shri Narendra Modi,Varanasi,GEN,Uttar Pradesh | Varanasi,162070276.0
+Kerala,Shri Nk Premachandran,Kollam,GEN,Kerala | Kollam,171477994.0
+Rajasthan,Shri Pp Chaudhary,Pali,GEN,Rajasthan | Pali,147000000.0
+Kerala,Shri Rajmohan Unnithan,Kasaragod,GEN,Kerala | Kasaragod,156754633.0
+Assam,Shri Sarbananda Sonowal (18Ls),Dibrugarh,GEN,Assam | Dibrugarh,147000000.0
+Uttar Pradesh,Shri Satish Kumar Gautam,Aligarh,GEN,Uttar Pradesh | Aligarh,147000000.0
+West Bengal,Shri Shantanu Thakur,Bangaon,SC,West Bengal | Bangaon,147000000.0
+Madhya Pradesh,Shri Sudheer Gupta,Mandsour,GEN,Madhya Pradesh | Mandsour,148988015.0
+Kerala,Shri Suresh Kodikunnil,Mavelikkara,SC,Kerala | Mavelikkara,172429519.0
+Arunachal Pradesh,Shri Tapir Gao,Arunachal East,GEN,Arunachal Pradesh | Arunachal East,147000000.0
+Tamil Nadu,Shri Vijayakumar Vasanth,Kanniyakumari,GEN,Tamil Nadu | Kanniyakumari,171500000.0
+Maharashtra,Shrikant Eknath Shinde,Kalyan,GEN,Maharashtra | Kalyan,147000000.0
+Maharashtra,Shrimant Chh Udayanraje Pratapsinhamaharaj Bhonsle,Satara,GEN,Maharashtra | Satara,147000000.0
+Goa,Shripad Yesso Naik,North Goa,GEN,Goa | North Goa,147000000.0
+Maharashtra,Shrirang Appa Barne,Maval,GEN,Maharashtra | Maval,147000000.0
+Maharashtra,Shyamkumar,Ramtek,SC,Maharashtra | Ramtek,147000000.0
+Andhra Pradesh,Sivanath Kesineni,Vijayawada,GEN,Andhra Pradesh | Vijayawada,159864032.0
+West Bengal,Sk Nurul Islam,Basirhat,GEN,West Bengal | Basirhat,49000000.0
+Maharashtra,Smita Uday Wagh,Jalgaon,GEN,Maharashtra | Jalgaon,148107373.0
+Uttar Pradesh,Smt Anupriya Patel,Mirzapur,GEN,Uttar Pradesh | Mirzapur,147000000.0
+Odisha,Smt Aparajita Sarangi,Bhubaneswar,GEN,Odisha | Bhubaneswar,147420861.0
+Uttar Pradesh,Smt Dimple Yadav,Mainpuri,GEN,Uttar Pradesh | Mainpuri,192042469.0
+Punjab,Smt Harsimrat Kaur Badal,Bhatinda,GEN,Punjab | Bhatinda,159775982.0
+Uttar Pradesh,Smt Hema Malini,Mathura,GEN,Uttar Pradesh | Mathura,147000000.0
+Madhya Pradesh,Smt Himadri Singh,Shahdol,ST,Madhya Pradesh | Shahdol,150724861.0
+Gujarat,Smt Poonamben Hematbhai Maadam,Jamnagar,GEN,Gujarat | Jamnagar,147000000.0
+Maharashtra,Smt Raksha Nikhil Khadse,Raver,GEN,Maharashtra | Raver,153112586.0
+Tamil Nadu,Smt S Jothimani,Karur,GEN,Tamil Nadu | Karur,147000000.0
+West Bengal,Smt Sajda Ahmed,Uluberia,GEN,West Bengal | Uluberia,147000000.0
+Madhya Pradesh,Smt Sandhya Ray,Bhind,SC,Madhya Pradesh | Bhind,147000000.0
+Odisha,Smt Sangeeta Kumari Singh Deo,Bolangir,GEN,Odisha | Bolangir,147000000.0
+West Bengal,Smt Satabdi Roy (Banerjee),Birbhum,GEN,West Bengal | Birbhum,147000000.0
+Maharashtra,Smt Supriya Sadanand Sule,Baramati,GEN,Maharashtra | Baramati,147000000.0
+Bihar,Smt Veena Devi,Vaishali,GEN,Bihar | Vaishali,147000000.0
+Andhra Pradesh,Sribharat Mathukumli,Visakhapatnam,GEN,Andhra Pradesh | Visakhapatnam,164841922.0
+Bihar,Sudama Prasad,Arrah,GEN,Bihar | Arrah,147000000.0
+Tamil Nadu,Sudha R,Mayiladuthurai,GEN,Tamil Nadu | Mayiladuthurai,147332315.0
+Bihar,Sudhakar Singh,Buxar,GEN,Bihar | Buxar,185211957.0
+West Bengal,Sudip Bandyopadhyay,Kolkata Uttar,GEN,West Bengal | Kolkata Uttar,147000000.0
+Odisha,Sukanta Kumar Panigrahi,Kandhamal,GEN,Odisha | Kandhamal,190712424.0
+Jharkhand,Sukhdeo Bhagat,Lohardaga,ST,Jharkhand | Lohardaga,171821957.0
+Punjab,Sukhjinder Singh Randhawa,Gurdaspur,GEN,Punjab | Gurdaspur,147000000.0
+Karnataka,Sunil Bose,Chamarajanagar,SC,Karnataka | Chamarajanagar,147000000.0
+Maharashtra,Sunil Dattatray Tatkare,Raigad,GEN,Maharashtra | Raigad,147000000.0
+Bihar,Sunil Kumar,Valmiki Nagar,GEN,Bihar | Valmiki Nagar,147000000.0
+Bihar,Surendra Prasad Yadav,Jahanabad,GEN,Bihar | Jahanabad,155325714.0
+Kerala,Suresh Gopi,Thrissur,GEN,Kerala | Thrissur,147000000.0
+Himachal Pradesh,Suresh Kumar Kashyap,Shimla,SC,Himachal Pradesh | Shimla,153563957.0
+Telangana,Suresh Kumar Shetkar,Zahirabad,GEN,Telangana | Zahirabad,147000000.0
+Uttar Pradesh,Swami Sachchidanandhari Sakshi Ji Maharaj,Unnao,GEN,Uttar Pradesh | Unnao,147000000.0
+Tamil Nadu,T Sumathy (A) Thamizhachi Thangapandian,Chennai South,GEN,Tamil Nadu | Chennai South,147000000.0
+Andhra Pradesh,Tangella Uday Srinivas,Kakinada,GEN,Andhra Pradesh | Kakinada,199417887.0
+Uttar Pradesh,Tanuj Punia,Barabanki,SC,Uttar Pradesh | Barabanki,148198170.0
+Bihar,Tariq Anwar,Katihar,GEN,Bihar | Katihar,147000000.0
+Tamil Nadu,Thalikkottai Rajuthevar Baalu,Sriperumbudur,GEN,Tamil Nadu | Sriperumbudur,196905535.0
+Tamil Nadu,Thanga Tamilselvan,Theni,GEN,Tamil Nadu | Theni,167755940.0
+Tamil Nadu,Tharaniventhan M S,Arani,GEN,Tamil Nadu | Arani,168337124.0
+Tamil Nadu,Thiru Dayanidhi Maran,Chennai Central,GEN,Tamil Nadu | Chennai Central,147000000.0
+Tamil Nadu,Thirumaa Valavan Thol,Chidambaram,SC,Tamil Nadu | Chidambaram,147000000.0
+Chhattisgarh,Tokhan Sahu,Bilaspur,GEN,Chhattisgarh | Bilaspur,147000000.0
+Uttarakhand,Trivendra Singh Rawat,Hardwar,GEN,Uttarakhand | Hardwar,147000000.0
+Uttar Pradesh,Ujjwal Raman Singh,Allahabad,GEN,Uttar Pradesh | Allahabad,147000000.0
+Rajasthan,Ummeda Ram Beniwal,Barmer,GEN,Rajasthan | Barmer,147000000.0
+Uttar Pradesh,Utkarsh Verma Madhur,Kheri,GEN,Uttar Pradesh | Kheri,147000000.0
+Tamil Nadu,V S Matheswaran,Namakkal,GEN,Tamil Nadu | Namakkal,162539930.0
+Karnataka,V. Somanna,Tumkur,GEN,Karnataka | Tumkur,147000000.0
+Puducherry,Vaithilingam Ve,Puducherry,GEN,Puducherry | Puducherry,209368972.0
+Telangana,Vamsi Krishna Gaddam,Peddapalle,GEN,Telangana | Peddapalle,148451721.0
+Haryana,Varun Chaudhry,Ambala,SC,Haryana | Ambala,255454264.0
+Kerala,Vellalath Kochukrishnan Nair Sreekandan,Palakkad,GEN,Kerala | Palakkad,167807990.0
+Chhattisgarh,Vijay Baghel,Durg,GEN,Chhattisgarh | Durg,147000000.0
+Uttar Pradesh,Vijay Kumar Dubey,Kushi Nagar,GEN,Uttar Pradesh | Kushi Nagar,148900000.0
+Jharkhand,Vijay Kumar Hansdak,Rajmahal,ST,Jharkhand | Rajmahal,147223957.0
+Bihar,Vijaylakshmi Devi,Siwan,GEN,Bihar | Siwan,147000000.0
+Gujarat,Vinod Chavda,Kachchh,SC,Gujarat | Kachchh,147000000.0
+Uttar Pradesh,Vinod Kumar Bind,Bhadohi,GEN,Uttar Pradesh | Bhadohi,147000000.0
+Madhya Pradesh,Virendra Kumar,Tikamgarh,SC,Madhya Pradesh | Tikamgarh,147000000.0
+Uttar Pradesh,Virendra Singh,Chandauli,GEN,Uttar Pradesh | Chandauli,147000000.0
+Maharashtra,Vishal,Sangli,GEN,Maharashtra | Sangli,147000000.0
+Jharkhand,Vishnu Dayal Ram,Palamu,SC,Jharkhand | Palamu,158176083.0
+Madhya Pradesh,Vishnu Dutt Sharma,Khajuraho,GEN,Madhya Pradesh | Khajuraho,147000000.0
+Karnataka,Vishweshwar Hegde Kageri,Uttara Kannada,GEN,Karnataka | Uttara Kannada,147000000.0
+Bihar,Vivek Thakur,Nawada,GEN,Bihar | Nawada,147000000.0
+Andhra Pradesh,Y S Avinash Reddy,Kadapa,GEN,Andhra Pradesh | Kadapa,156430260.0
+Karnataka,Yaduveer Krishnadatta Chamaraja Wadiyar,Mysore,GEN,Karnataka | Mysore,147000000.0
+Delhi,Yogendra Chandoliya,North West Delhi,SC,Delhi | North West Delhi,147876307.0
+Uttar Pradesh,Zia Ur Rehman,Sambhal,GEN,Uttar Pradesh | Sambhal,147000000.0
