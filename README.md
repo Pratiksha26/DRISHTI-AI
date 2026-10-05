@@ -15,14 +15,14 @@ The platform combines **real government entitlement data**, simulated project-le
 > Add your deployed Streamlit URL here after deployment.
 
 **🌐 Live Application:**  
-`https://your-app-name.streamlit.app`
+https://your-app-name.streamlit.app
 
 ---
 
 # 📌 Table of Contents
 
 - [Problem Statement](#-problem-statement)
-- [Solution](#-solution)
+- [Our Solution](#-our-solution)
 - [Key Features](#-key-features)
 - [Dashboard Pages](#-dashboard-pages)
 - [Technology Stack](#-technology-stack)
@@ -69,7 +69,7 @@ DRISHTI-AI addresses this challenge by providing a centralized **risk intelligen
 
 DRISHTI-AI combines multiple analytical techniques to generate an **explainable project risk score from 0–100**.
 
-The platform evaluates projects using three major signals:
+The platform evaluates projects using three major signals.
 
 ### 1. Rule-Based Risk Detection
 
@@ -254,31 +254,31 @@ The application contains **8 major pages**:
 ```text
                     ┌──────────────────────────┐
                     │   Official MPLADS Data   │
-                    │     MP Entitlements     │
+                    │     MP Entitlements      │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │      Data Cleaning        │
+                    │      Data Cleaning       │
                     │    clean_mp_data.py      │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │       EDA & Analysis      │
+                    │       EDA & Analysis     │
                     │     eda_mp_data.py       │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │ Project-Level Simulation  │
-                    │       data_gen.py         │
+                    │ Project-Level Simulation │
+                    │       data_gen.py        │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │       Risk Engine         │
-                    │     risk_engine.py        │
+                    │       Risk Engine        │
+                    │     risk_engine.py       │
                     │                          │
                     │  • Rule-Based Checks     │
                     │  • Isolation Forest      │
@@ -287,79 +287,19 @@ The application contains **8 major pages**:
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │      Risk Score 0–100     │
+                    │      Risk Score 0–100    │
                     └────────────┬─────────────┘
                                  │
                                  ▼
                     ┌──────────────────────────┐
-                    │     Streamlit Dashboard   │
+                    │    Streamlit Dashboard   │
                     │                          │
                     │ • Dashboard              │
-                    │ • Projects               │
+                    │ • All Projects           │
                     │ • Risk Analysis          │
                     │ • Map View               │
+                    │ • Project Details        │
                     │ • Investigation          │
                     │ • Reports                │
                     │ • About                  │
                     └──────────────────────────┘
-                    ---
-
-# 📸 Dashboard Screenshots
-
-## 🏠 1. Dashboard — Home
-
-![DRISHTI-AI Dashboard](assets/Home_page.png)
-
----
-
-## 📋 2. All Projects
-
-![All Projects](assets/All_Projects.png)
-
----
-
-## 🗺️ 3. Map View
-
-![Map View](assets/Map_View.png)
-
----
-
-## 📌 4. Project Details
-
-![Project Details](assets/Project_Details.png)
-
----
-
-## 🔎 5. Investigation
-
-![Investigation](assets/Investigation.png)
-
----
-
-## 📑 6. Reports
-
-![Reports](assets/Reports.png)
-
----
-
-## ℹ️ 7. About
-
-![About DRISHTI-AI](assets/About.png)
-
----
-
-# 🚀 Project Status
-
-DRISHTI-AI is currently available as a working Streamlit prototype with:
-
-- ✅ 3,741 simulated project-level records
-- ✅ 542 real MPLADS constituencies
-- ✅ 36 States/UTs
-- ✅ Rule-based risk detection
-- ✅ Isolation Forest anomaly detection
-- ✅ RapidFuzz similarity detection
-- ✅ Explainable risk scores
-- ✅ Interactive Streamlit dashboard
-- ✅ Geographic visualization
-- ✅ Investigation workflow
-- ✅ Monitoring reports
